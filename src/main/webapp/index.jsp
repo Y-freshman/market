@@ -22,4 +22,5 @@
 
 </body>
 <script src="https://unpkg.com/element-ui@2.12.0/lib/index.js"></script>
+<script src="js/vue.js"></script>
 </html>
