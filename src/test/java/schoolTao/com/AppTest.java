@@ -1,4 +1,4 @@
-package market.kangbaizi.com;
+package schoolTao.com;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
@@ -34,5 +34,6 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+        System.out.println(111);
     }
 }
