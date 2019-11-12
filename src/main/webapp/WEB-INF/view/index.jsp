@@ -8,6 +8,6 @@
 </head>
 <body>
 	freshman 用springboot整合jsp成功...注意（创建项目为war ）
-	我来了
+	hc来了
 </body>
 </html>
